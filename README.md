@@ -1,4 +1,4 @@
-#API Rectangles
+# API Rectangles
 
 ## Requeriments
 * Maven
